@@ -41,7 +41,7 @@ h3 { font: 700 18px 'Yanone Kaffeesatz', sans-serif; text-transform: uppercase; 
 h4 { font: 700 22px 'Yanone Kaffeesatz', sans-serif; text-transform: uppercase; color: #656d78; padding: 0; margin: 0; text-align: center; }
 h5 { font: 400 24px Roboto, sans-serif; text-align: center; color: #48cfae; padding: 0; margin: 0; }
 p { font: 13px/20px Roboto, sans-serif; color: #656d78; padding: 0; margin: 0; }
-a { font: 13px/20px Roboto, sans-serif; color: #48cfae; padding: 0; margin: 0; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
+a { font: 13px/20px Roboto, sans-serif; color: #6178AE; padding: 0; margin: 0; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
 a:hover,
 a:active,
 a:focus { color: #434a54; outline: none; text-decoration: none; }
@@ -52,11 +52,11 @@ a:focus { color: #434a54; outline: none; text-decoration: none; }
 .title h2 { font: 700 28px 'Yanone Kaffeesatz', sans-serif; color: #434a54; text-align: center; text-transform: uppercase;}
 .title span { display: block; width: 40px; height: 2px; margin: 10px auto 10px auto; background: #ccd0d9; }
 .title p { font: 14px Roboto, sans-serif; color: #656d78; text-align: center; }
-::selection { background: #48cfae; color: #fff; }
+::selection { background: #12285c; color: #fff; }
 ::-moz-selection { background: #48cfae; color: #fff; }
 hr { border-top: 1px dashed #dde0e4; height: 1px; }
-.scrolltop { display: none; width: 30px; height: 30px; font-size: 10px; line-height: 2.8em; color: #fff; text-align: center; background: #48cfae; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; position: fixed; bottom: 20px; right: 20px; }
-.scrolltop:hover { background: #343a43; color: #fff; }
+.scrolltop { display: none; width: 30px; height: 30px; font-size: 10px; line-height: 2.8em; color: #fff; text-align: center; background: #6178AE; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; position: fixed; bottom: 20px; right: 20px; }
+.scrolltop:hover { background: #12285c; color: #fff; }
 .scrolltop:focus { color: #fff; }
 #preloader { position: fixed; top: 0; left: 0; right: 0; bottom: 0; background-color: #fff; z-index: 9999; }
 #status { width: 200px; height: 200px; position: absolute; left: 50%; top: 50%; background-image: url(../img/loader.gif); background-repeat: no-repeat; background-position: center; margin: -100px 0 0 -100px; }
@@ -64,7 +64,7 @@ hr { border-top: 1px dashed #dde0e4; height: 1px; }
 /*------------------------
 	02. BUTTON
 ------------------------*/
-.button { display: block; width: 160px; height: 40px; margin: auto; background: #48cfae; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; font: 700 16px/2.4em 'Yanone Kaffeesatz', sans-serif; color: #fff; text-transform: uppercase; text-align: center; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
+.button { display: block; width: 160px; height: 40px; margin: auto; background: #6178AE; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; font: 700 16px/2.4em 'Yanone Kaffeesatz', sans-serif; color: #fff; text-transform: uppercase; text-align: center; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
 .button i { font-size: 15px; padding-right: 5px; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
 .button span { display: inline-block; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
 .button:hover,
@@ -78,7 +78,7 @@ hr { border-top: 1px dashed #dde0e4; height: 1px; }
 ------------------------*/
 .image { display: block; width: 100%; height: 190px; overflow: hidden; position: relative; -webkit-border-radius: 3px; -moz-border-radius: 3px; -o-border-radius: 3px; border-radius: 3px; }
 .image img { display: block; height: 100%; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
-.image .overlay { width: 100%; height: 100%; position: absolute; top: 0; left: 0; opacity: 0; background: rgba(72, 207, 174, .95); -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
+.image .overlay { width: 100%; height: 100%; position: absolute; top: 0; left: 0; opacity: 0; background: #12285c; -webkit-transition: all .3s ease; -moz-transition: all .3s ease; -o-transition: all .3s ease; transition: all .3s ease; }
 .image .overlay h3 { font: 700 18px 'Yanone Kaffeesatz', sans-serif; color: #fff; text-transform: uppercase; margin-top: 20px; margin-left: 20px; opacity: 0; -webkit-transition: opacity .3s ease .15s; -moz-transition: opacity .3s ease .15s; -o-transition: opacity .3s ease .15s; transition: opacity .3s ease .15s; }
 .image .overlay h3 span { display: block; width: 20px; height: 1px; background: #fff; margin-left: 3px; margin-top: 3px; }
 .image:hover .overlay,
@@ -124,7 +124,7 @@ hr { border-top: 1px dashed #dde0e4; height: 1px; }
 ------------------------*/
 header { display: block; width: 100%; height: 600px; -webkit-border-top-right-radius: 3px; -moz-border-top-right-radius: 3px; -o-border-top-right-radius: 3px; border-top-right-radius: 3px; -webkit-border-top-left-radius: 3px; -moz-border-top-left-radius: 3px; -o-border-top-left-radius: 3px; border-top-left-radius: 3px; overflow: hidden; }
 header .head { width: 100%; height: 600px; background-size: cover; background-repeat: no-repeat; background-position: center; }
-header .header-1 { background-image: url(../img/header-1.jpg); }
+header .header-1 { background-image: url(../img/header-1.png); }
 .caption { display: block; margin: 20% 0 -20% 0;}
 .caption h1 { font: 400 48px 'Yanone Kaffeesatz', sans-serif; color: #fff; text-transform: uppercase; text-align: center; margin: 0; padding: 0; }
 .caption p { font: 13px Roboto, sans-serif; color: #fff; text-align: center; }
@@ -146,8 +146,8 @@ header .header-1 { background-image: url(../img/header-1.jpg); }
 .navbar.offset li a { color: #656d78; }
 .navbar.offset li a:hover,
 .navbar.offset li a:active,
-.navbar.offset li a:focus { background: transparent; color: #48cfae; opacity: 1; outline: none; }
-.navbar.offset li a.current { background: transparent; color: #48cfae; opacity: 1; outline: none; }
+.navbar.offset li a:focus { background: transparent; color: #12285c; opacity: 1; outline: none; }
+.navbar.offset li a.current { background: transparent; color: #12285c; opacity: 1; outline: none; }
 .offset .navbar-brand { background: url(../img/logo-dark.png) no-repeat center; }
 
 /*------------------------
@@ -155,7 +155,7 @@ header .header-1 { background-image: url(../img/header-1.jpg); }
 ------------------------*/
 #features .indents { padding-top: 100px; padding-bottom: 50px; }
 #features .item { margin-bottom: 45px; }
-#features .item i { font-size: 22px; color: #48cfae; float: left; padding: 3px 20px 0 0; }
+#features .item i { font-size: 22px; color: #12285c; float: left; padding: 3px 20px 0 0; }
 #features .item .text { overflow: hidden; }
 #features .item .text h2 { padding-bottom: 10px; }
 
@@ -340,7 +340,7 @@ a:hover,a:focus{
     transform: rotate(0deg);
 }
 #accordion .panel-body{
-    background: #49cfae;
+    background: #6178AE;
     padding: 0 0 0 5px;
     border: none;
     position: relative;
@@ -349,7 +349,7 @@ a:hover,a:focus{
     font-size: 14px;
     color: #fff;
     line-height: 25px;
-    background: #49cfae;
+    background: #6178AE;
     padding: 5px;
 	margin: 0;
 	text-align: center;
