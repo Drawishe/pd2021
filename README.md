@@ -18,15 +18,23 @@ https://github.com/Drawishe/pd2021
 Ссылка на веб-страницу проекта:
 
 https://pd2021.std-816.ist.mospolytech.ru
+
 Ссылка на новость в соц.сетях:
 
-https://vk.com/montwo1?w=wall110594517_5060%2Fall
+https://vk.com/wall383418277_151
 
 Ссылка на промо ролик:
+
 https://youtu.be/2fgMkY86MyE
 
 Ссылка на видеопрезентацию:
+
 https://youtu.be/18XHC2b6JFE
+
+Ссылки на checkvist, где велись разработки чеклистов:
+
+https://checkvist.com/checklists/800390
+https://checkvist.com/checklists/800391
 
 
 Задачи по проекту (должны вести к достижению цели и решению проблемы), а также не забыть про требования к итоговой отчетности по ПД (https://pd.fit.mospolytech.ru/docs/report).
