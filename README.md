@@ -34,6 +34,7 @@ https://youtu.be/18XHC2b6JFE
 Ссылки на checkvist, где велись разработки чеклистов:
 
 https://checkvist.com/checklists/800390
+
 https://checkvist.com/checklists/800391
 
 
