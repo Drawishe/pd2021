@@ -25,11 +25,11 @@ https://vk.com/wall383418277_151
 
 Ссылка на промо ролик:
 
-https://youtu.be/2fgMkY86MyE
+https://youtu.be/KtNi0AwIfKc
 
 Ссылка на видеопрезентацию:
 
-https://youtu.be/18XHC2b6JFE
+https://youtu.be/FEdunctysWE
 
 Ссылки на checkvist, где велись разработки чеклистов:
 
