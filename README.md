@@ -17,8 +17,6 @@ https://github.com/Drawishe/pd2021
 
 Ссылка на веб-страницу проекта:
 
-https://pd2021.std-816.ist.mospolytech.ru
-
 http://pd2021.std-816.ist.mospolytech.ru/
 
 Ссылка на новость в соц.сетях:
